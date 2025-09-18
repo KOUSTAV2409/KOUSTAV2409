@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I’m Koustav Ganguly  
 
-<!--
-**KOUSTAV2409/KOUSTAV2409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Developer · Writer · Problem Solver**  
+Exploring **Tech, Computer Science, Math, and Business** — blending them to solve real-world problems.  
 
-Here are some ideas to get you started:
+🌍 Building [**EasyGoDocs**](https://github.com/EasyGoDocs) — simplifying developer documentation  
+📝 Writing & sharing thoughts on [**iamk.xyz**](https://iamk.xyz)  
+💡 Believer in clarity, systems thinking & long-term problem solving  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do  
+- 💻 **Development** → Full-stack web dev (Next.js, React, Node.js, Strapi)  
+- 🧩 **Problem Solving** → Applying CS + Math to business & technology challenges  
+- 📖 **Writing** → Articles on tech, CS, backend, strategy, and clarity of thought  
+- 🌱 **Learning in Public** → Backend systems, open-source contribution, freelancing  
+
+---
+
+## 🛠️ Tech & Tools  
+**Languages & Frameworks**  
+`JavaScript` · `TypeScript` · `React` · `Next.js` · `Node.js` · `Tailwind`  
+
+**Backend & Systems**  
+`Strapi` · `Express` · `REST APIs` · `SQL/NoSQL` · `Auth`  
+
+**Other Tools**  
+`Git` · `Docker` · `Markdown/MDX` · `VS Code`  
+
+---
+
+## 📌 Projects  
+- 🔹 [**EasyGoDocs**](https://github.com/EasyGoDocs) → Open-source tool simplifying developer documentation  
+- 🔹 [**iamk.xyz**](https://iamk.xyz) → Personal site & writings hub (tech, CS, math, business)  
+- 🔹 [**Cryzenta**](https://cryzenta.com) *(in progress)* → Web design & development agency for high-ticket clients  
+
+---
+
+## ✍️ Latest Writings  
+📡 Blog posts & research synced at [**iamk.xyz/blog**](https://iamk.xyz/blog)  
+> *Covering Tech, Computer Science, Backend Learnings, Business Analysis, and Problem Solving.*  
+
+---
+
+## 🌐 Connect With Me  
+- 🐦 Twitter: [@koustav_codes](https://twitter.com/koustav_codes)  
+- 🟦 LinkedIn: [Koustav Ganguly](https://linkedin.com/in/koustav-ganguly)  
+- 🟦 Bluesky: [@iamk.xyz](https://bsky.app/profile/iamk.xyz)  
+- 📝 Hashnode: [iamk](https://iamk.hashnode.dev)  
+- 💡 GitHub: [KOUSTAV2409](https://github.com/KOUSTAV2409)  
+
+---
+
+✨ *"Code is not just about solving problems, but about solving the right problems in the right way."*  
+
+---
+
+![Koustav's GitHub stats](https://github-readme-stats.vercel.app/api?username=KOUSTAV2409&show_icons=true&theme=radical)
