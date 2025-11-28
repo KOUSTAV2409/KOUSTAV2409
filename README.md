@@ -1,62 +1,41 @@
-<p align="center">
-  <img src="https://sstocode.vercel.app/og.png" alt="SSToCode – Screenshot to React+Tailwind" width="800" />
-  <h1 align="center">Hey, I'm Koustav Ganguly</h1>
-  <p align="center"><strong>Full-Stack Developer · AI Builder · Shipping Daily</strong></p>
-  <p align="center">
-    <a href="https://sstocode.vercel.app">
-      <strong>SSToCode → Drop any screenshot → get production React + Tailwind code instantly</strong>
-    </a>
-  </p>
-</p>
-
----
-**Developer · Writer · Problem Solver**  
+# 👋 Hi, I’m Koustav Ganguly
+**Developer · Writer · Problem Solver**
 Exploring **Tech, Computer Science, Math, and Business** — blending them to solve real-world problems.
-
-🌍 Building [**EasyGoDocs**](https://github.com/EasyGoDocs) — simplifying developer documentation  
-Powered by AI **SSToCode** — my Cursor.ai killer (built in one night)  
+🌍 Building [**EasyGoDocs**](https://github.com/EasyGoDocs) — simplifying developer documentation
+🎮 Building [**sstocode**](https://sstocode.vercel.app/) — Building the Cursor killer
 📝 Writing & sharing thoughts on [**iamk.xyz**](https://iamk.xyz)
-
+💡 Believer in clarity, systems thinking & long-term problem solving
 ---
-## What I Do
-- Full-stack web dev (Next.js 16, React 19, Node.js, Strapi)
-- Building AI-powered dev tools
-- Problem solving with CS + Math + Systems thinking
-- Learning & shipping in public
-
+## 🚀 What I Do
+- 💻 **Development** → Full-stack web dev (Next.js, React, Node.js, Strapi)
+- 🧩 **Problem Solving** → Applying CS + Math to business & technology challenges
+- 📖 **Writing** → Articles on tech, CS, backend, strategy, and clarity of thought
+- 🌱 **Learning in Public** → Backend systems, open-source contribution, freelancing
 ---
-## Tech & Tools
-**Languages & Frameworks**  
+## 🛠️ Tech & Tools
+**Languages & Frameworks**
 `JavaScript` · `TypeScript` · `React` · `Next.js` · `Node.js` · `Tailwind`
-
-**Backend & AI**  
-`Strapi` · `Gemini API` · `Express` · `REST` · `SQL/NoSQL`
-
-**Tools**  
-`Git` · `Docker` · `Vercel` · `VS Code` · `Markdown/MDX`
-
+**Backend & Systems**
+`Strapi` · `Express` · `REST APIs` · `SQL/NoSQL` · `Auth`
+**Other Tools**
+`Git` · `Docker` · `Markdown/MDX` · `VS Code`
 ---
-## Projects
-| Project       | Description                                                                 | Link                                      |
-|---------------|-----------------------------------------------------------------------------|-------------------------------------------|
-| **SSToCode**  | Screenshot → Production React + Tailwind (Gemini 2.5 Flash) — built in 1 day | [Live](https://sstocode.vercel.app) |
-| EasyGoDocs    | Open-source tool simplifying developer documentation                        | [github.com/EasyGoDocs](https://github.com/EasyGoDocs) |
-| iamk.xyz      | Personal blog — tech, CS, backend, clarity, business                        | [iamk.xyz](https://iamk.xyz)              |
-| Cryzenta      | High-ticket web design & dev agency (in progress)                           | [cryzenta.com](https://cryzenta.com)      |
-
+## 📌 Projects
+- 🔹 [**EasyGoDocs**](https://github.com/EasyGoDocs) → Open-source tool simplifying developer documentation
+- 🔹 [**iamk.xyz**](https://iamk.xyz) → Personal site & writings hub (tech, CS, math, business)
+- 🔹 [**sstocode**](https://sstocode.vercel.app/) *(in progress)* → Converting any screeshot of ui into production ready react+tailwind code
 ---
-## Latest Writings
-Synced live at [**iamk.xyz/blog**](https://iamk.xyz/blog)  
-Tech · Backend · AI · Systems Thinking · Clarity
-
+## ✍️ Latest Writings
+📡 Blog posts & research synced at [**iamk.xyz/blog**](https://iamk.xyz/blog)
+> *Covering Tech, Computer Science, Backend Learnings, Business Analysis, and Problem Solving.*
 ---
-## Connect
-- Twitter: [@koustav_codes](https://twitter.com/koustav_codes)  
-- LinkedIn: [Koustav Ganguly](https://linkedin.com/in/koustav-ganguly)  
-- Bluesky: [@iamk.xyz](https://bsky.app/profile/iamk.xyz)  
-- Blog: [iamk.xyz](https://iamk.xyz)
-
+## 🌐 Connect With Me
+- 🐦 Twitter: [@koustav_codes](https://x.com/iamk_xyz)
+- 🟦 LinkedIn: [Koustav Ganguly](www.linkedin.com/in/koustav-ganguly-5294151b4)
+- 📝 Hashnode: [syntaxandsoul](https://syntaxandsoul.hashnode.dev/)
+- 💡 GitHub: [KOUSTAV2409](https://github.com/KOUSTAV2409)
 ---
-*"Code is not just about solving problems, but about solving the right problems in the right way."*
-
-![Koustav's GitHub stats](https://github-readme-stats.vercel.app/api?username=KOUSTAV2409&show_icons=true&theme=radical&hide_border=true)
+✨ *"Code is not just about solving problems, but about solving the right problems in the right way."*
+---
+![Koustav's GitHub stats](https://github-readme-stats.vercel.app/api?username=KOUSTAV2409&show_icons=true&theme=radical)
+this is my current readme of the profile
