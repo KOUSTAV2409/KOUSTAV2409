@@ -1,3 +1,4 @@
+---
 # 👋 Hi, I’m Koustav Ganguly
 **Developer · Writer · Problem Solver**
 Exploring **Tech, Computer Science, Math, and Business** — blending them to solve real-world problems.
@@ -38,4 +39,4 @@ Exploring **Tech, Computer Science, Math, and Business** — blending them to so
 ✨ *"Code is not just about solving problems, but about solving the right problems in the right way."*
 ---
 ![Koustav's GitHub stats](https://github-readme-stats.vercel.app/api?username=KOUSTAV2409&show_icons=true&theme=radical)
-this is my current readme of the profile
+
