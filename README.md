@@ -1,36 +1,39 @@
 # Koustav Ganguly
 
-**Full-Stack Developer | Technical Writer | Problem Solver**  
-Bongaon, India | [koustav_codes](https://twitter.com/koustav_codes) | [LinkedIn](https://linkedin.com/in/koustav-ganguly) | [iamk.xyz](https://iamk.xyz)  
+**Full-Stack Developer**  
+Bongaon, India | [koustavganguly24@gmail.com](mailto:koustavganguly24@gmail.com) | [iamk.xyz](https://www.iamk.xyz) | [LinkedIn](https://www.linkedin.com/in/koustav-ganguly-5294151b4) | [GitHub](https://github.com/KOUSTAV2409)  
 
 ---
 
 ## Professional Summary
 
-Exploring the intersections of technology, computer science, mathematics, and business to solve real-world challenges. Passionate about building scalable tools and sharing insights through writing. Experienced in full-stack development with a focus on clean, efficient systems. Currently contributing to open-source projects and freelancing.
+Full-stack developer with a focus on building scalable web applications using React, Next.js, Node.js, and Tailwind CSS. Experienced in collaborative environments, open-source contributions, and optimizing workflows through clean code and automation. Passionate about system design, programming fundamentals, and sharing technical insights via writing. Currently driving internal engineering at an EdTech platform while freelancing and maintaining open-source tools.
 
 ---
 
 ## Experience
 
-### Full-Stack Developer & Technical Writer  
-**BiswasCompany** | Bongaon, India | *2024 – Present*  
-- Develop and maintain full-stack web applications using Next.js, React, Node.js, and Strapi, ensuring scalable architectures and seamless user experiences.  
-- Create comprehensive technical documentation and tutorials, simplifying complex backend systems for developers.  
-- Collaborate on open-source initiatives, including contributions to documentation tools and AI-powered code generation projects.  
-- Apply problem-solving skills from CS and math to optimize business workflows, reducing development time by 20% through automated processes.  
+### Full-Stack Developer  
+**BiswasCompany (EdTech Platform)** | Remote | *May 2025 – Present*  
+- Building internal tools, dashboards, and automation workflows using React, Node.js, and REST APIs.  
+- Collaborating with content, product, and engineering teams to optimize internal operations.  
+- Handling feature development, refactoring, and debugging in a fast-paced environment.  
 
-### Freelance Developer  
-*Self-Employed* | *2023 – Present*  
-- Built custom web solutions for clients, including RESTful APIs with Express and NoSQL databases, delivering projects on tight deadlines.  
-- Contributed to backend systems experimentation, focusing on authentication, deployment with Docker, and performance tuning.  
+### Full-Stack Developer Intern  
+**Sisyphus Infotech** | Remote | *March 2025 – May 2025*  
+- Worked on frontend (React) and backend (Node.js) modules, building reusable components and API integrations.  
+- Developed small full-stack features and practiced production Git workflows, code reviews, and collaborative development.  
+
+### Freelance Full-Stack Developer  
+*Self-Employed* | Remote | *2022 – Present*  
+- Delivered custom web solutions, including RESTful APIs, state management, and performance optimizations for various clients.  
 
 ---
 
 ## Education
 
 ### B.Sc. in Computer Science  
-**West Bengal State University (WBSU)** | *2020 – 2023*  
+**West Bengal State University (WBSU)** | *2019 – 2022*  
 - CGPA: 8.87/10  
 - Relevant Coursework: Data Structures, Algorithms, Database Management, Software Engineering.  
 
@@ -39,39 +42,39 @@ Exploring the intersections of technology, computer science, mathematics, and bu
 ## Skills
 
 ### Languages & Frameworks  
-JavaScript, TypeScript, React, Next.js, Node.js  
+JavaScript, React, Next.js, Node.js, Tailwind CSS, shadcn/ui  
 
-### Backend & Systems  
-Strapi, Express, REST APIs, SQL/NoSQL, Authentication  
+### Tools & Concepts  
+Git, Markdown, Excalidraw, VS Code, REST APIs  
+Component Design, State Management, API Integration, Performance Optimization  
 
-### Tools  
-Git, Docker, Markdown/MDX, VS Code, Tailwind CSS  
+### Currently Learning  
+Ruby & Ruby on Rails (Beginner)  
 
 ---
 
-## Projects
+## Selected Projects
 
-- **[EasyGoDocs](https://github.com/KOUSTAV2409/easygodocs)**  
-  Open-source tool simplifying developer documentation workflows with automated generation and Markdown support.  
+- **[EasyGoDocs](https://github.com/EasyGoDocs/easygodocs)** *(Open-Source)*  
+  Lightweight, searchable documentation template for programming topics. Added features like dark mode, full-text search, and Markdown enhancements as contributor/maintainer.  
 
-- **[sstocode](https://github.com/KOUSTAV2409/sstocode)** *(In Progress)*  
-  AI-driven converter transforming UI screenshots into production-ready React + Tailwind code.  
+- **[sstocode](https://github.com/KOUSTAV2409/sstocode)** *(Open-Source)*  
+  Upload a UI screenshot to generate React + Tailwind component code. Contributor & maintainer.  
 
 - **[iamk.xyz](https://iamk.xyz)**  
-  Personal portfolio and blog hub featuring articles on tech, CS, backend systems, and business strategy.  
+  Full-stack Next.js + Tailwind personal portfolio and blog. Self-designed and deployed; serves as a showcase for technical articles. Open template for others to use.  
+
+- **Component Library (Open-Source Contribution)**  
+  Contributed reusable UI components, refactored logic, and improved documentation for a community-driven React + Tailwind library.  
 
 ---
 
-## Writings & Contributions
+## Writings
 
-Insights on technology, problem-solving, and systems thinking.  
-[Explore the blog →](https://iamk.xyz/blog)  
-
-Active in open-source and competitive programming communities (CodeChef, Codeforces).  
-
----
-
-> "Code is not just about solving problems, but about solving the right problems in the right way."  
+Long-form articles on JavaScript, system design, and programming fundamentals.  
+- [Hashnode](https://syntaxandsoul.hashnode.dev/)  
+- [iamk.xyz/blog](https://www.iamk.xyz/blog)  
 
 ---
 
+> "Code is not just about solving problems, but about solving the right problems in the right way."
