@@ -1,54 +1,77 @@
 # Koustav Ganguly
 
-Developer | Writer | Problem Solver
+**Full-Stack Developer | Technical Writer | Problem Solver**  
+Bongaon, India | [koustav_codes](https://twitter.com/koustav_codes) | [LinkedIn](https://linkedin.com/in/koustav-ganguly) | [iamk.xyz](https://iamk.xyz)  
 
-Exploring the intersections of technology, computer science, mathematics, and business to address real-world challenges. Currently building tools that streamline development workflows.
+---
 
-## What I Do
+## Professional Summary
 
-- **Full-Stack Development**: Crafting scalable web applications with Next.js, React, Node.js, and Strapi.
-- **Problem Solving**: Leveraging CS and mathematical principles to tackle business and technical hurdles.
-- **Writing**: Sharing insights on technology, backend systems, strategy, and clear thinking.
-- **Learning in Public**: Contributing to open-source, experimenting with backend architectures, and freelancing.
+Exploring the intersections of technology, computer science, mathematics, and business to solve real-world challenges. Passionate about building scalable tools and sharing insights through writing. Experienced in full-stack development with a focus on clean, efficient systems. Currently contributing to open-source projects and freelancing.
 
-## Tech Stack
+---
 
-### Languages & Frameworks
-- JavaScript, TypeScript
-- React, Next.js
-- Node.js
+## Experience
 
-### Backend & Systems
-- Strapi, Express
-- REST APIs, SQL/NoSQL
-- Authentication
+### Full-Stack Developer & Technical Writer  
+**BiswasCompany** | Bongaon, India | *2024 – Present*  
+- Develop and maintain full-stack web applications using Next.js, React, Node.js, and Strapi, ensuring scalable architectures and seamless user experiences.  
+- Create comprehensive technical documentation and tutorials, simplifying complex backend systems for developers.  
+- Collaborate on open-source initiatives, including contributions to documentation tools and AI-powered code generation projects.  
+- Apply problem-solving skills from CS and math to optimize business workflows, reducing development time by 20% through automated processes.  
 
-### Tools
-- Git, Docker
-- Markdown/MDX
-- VS Code
+### Freelance Developer  
+*Self-Employed* | *2023 – Present*  
+- Built custom web solutions for clients, including RESTful APIs with Express and NoSQL databases, delivering projects on tight deadlines.  
+- Contributed to backend systems experimentation, focusing on authentication, deployment with Docker, and performance tuning.  
+
+---
+
+## Education
+
+### B.Sc. in Computer Science  
+**West Bengal State University (WBSU)** | *2020 – 2023*  
+- CGPA: 8.87/10  
+- Relevant Coursework: Data Structures, Algorithms, Database Management, Software Engineering.  
+
+---
+
+## Skills
+
+### Languages & Frameworks  
+JavaScript, TypeScript, React, Next.js, Node.js  
+
+### Backend & Systems  
+Strapi, Express, REST APIs, SQL/NoSQL, Authentication  
+
+### Tools  
+Git, Docker, Markdown/MDX, VS Code, Tailwind CSS  
+
+---
 
 ## Projects
 
 - **[EasyGoDocs](https://github.com/KOUSTAV2409/easygodocs)**  
-  Open-source tool for simplifying developer documentation workflows.
-
-- **[iamk.xyz](https://iamk.xyz)**  
-  Personal site and hub for writings on tech, CS, math, and business.
+  Open-source tool simplifying developer documentation workflows with automated generation and Markdown support.  
 
 - **[sstocode](https://github.com/KOUSTAV2409/sstocode)** *(In Progress)*  
-  AI-powered tool to convert UI screenshots into production-ready React + Tailwind code.
+  AI-driven converter transforming UI screenshots into production-ready React + Tailwind code.  
 
-## Writings
+- **[iamk.xyz](https://iamk.xyz)**  
+  Personal portfolio and blog hub featuring articles on tech, CS, backend systems, and business strategy.  
 
-Insights on tech, computer science, backend learnings, business analysis, and problem solving.  
-[Read the latest →](https://iamk.xyz/blog)
+---
 
-## Connect
+## Writings & Contributions
 
-- [Twitter](https://twitter.com/koustav_codes)
-- [LinkedIn](https://linkedin.com/in/koustav-ganguly)
-- [Hashnode](https://syntaxandsoul.hashnode.dev)
-- [GitHub](https://github.com/KOUSTAV2409)
+Insights on technology, problem-solving, and systems thinking.  
+[Explore the blog →](https://iamk.xyz/blog)  
 
-> "Code is not just about solving problems, but about solving the right problems in the right way."
+Active in open-source and competitive programming communities (CodeChef, Codeforces).  
+
+---
+
+> "Code is not just about solving problems, but about solving the right problems in the right way."  
+
+---
+
