@@ -1,7 +1,7 @@
 # Koustav Ganguly
 
 **Full-Stack Developer**  
-Bongaon, India | [koustavganguly24@gmail.com](mailto:koustavganguly24@gmail.com) | [iamk.xyz](https://www.iamk.xyz) | [LinkedIn](https://www.linkedin.com/in/koustav-ganguly-5294151b4) | [GitHub](https://github.com/KOUSTAV2409)  
+Bongaon, India | [koustavganguly24@gmail.com](mailto:koustavganguly24@gmail.com) | [iamk.xyz](https://www.iamk.xyz) | [LinkedIn](https://www.linkedin.com/in/iamkxyz) | [GitHub](https://github.com/KOUSTAV2409)  
 
 ---
 
