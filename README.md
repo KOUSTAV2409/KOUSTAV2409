@@ -20,11 +20,9 @@ Building in public from West Bengal, India.
 
 [OG Image Generator](https://makershot.tech/og) — viral OG images in seconds. Free, no signup.
 
-[easygodocs](https://github.com/EasyGoDocs/easygodocs) — open source
+[easygodocs](https://github.com/EasyGoDocs/easygodocs) — open source documentation platform. Modern, clean, community-driven.
 
-[sstocode](https://github.com/KOUSTAV2409/sstocode) — screenshot to React code, powered by Gemini. Open source.
-
-[iamk.xyz](https://iamk.xyz) — where I log what I am actually doing
+[sstocode](https://github.com/KOUSTAV2409/sstocode) — screenshot to React code, powered by Gemini. Open source. API limits broke it — fix in progress.
 
 ---
 
