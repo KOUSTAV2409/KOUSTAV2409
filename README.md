@@ -16,7 +16,7 @@ Building in public from West Bengal, India
 - [sstocode](https://github.com/KOUSTAV2409/sstocode) — screenshot → React code (Gemini)
 
 **Stack**  
-Next.js · TypeScript · React · Tailwind · Postgres · Vercel · Python · PyTorch
+Next.js · TypeScript · React · Tailwind · Postgres · Vercel · Python ·
 
 **Connect**  
 [iamk.xyz](https://iamk.xyz) · [X](https://x.com/iamk_xyz) · [LinkedIn](https://linkedin.com/in/iamkxyz) · [Makershot](https://makershot.tech)
