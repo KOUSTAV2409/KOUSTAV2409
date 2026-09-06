@@ -4,7 +4,7 @@ Frontend → Full-stack AI engineer & CS researcher
 Building in public from West Bengal, India
 
 **Now**
-- Bulding [AtroUI](https:/www.atroui.com) - Not a typical component library
+- Bulding [AtroUI](https://www.atroui.com) - Not a typical component library
 - Running [Makershot](https://makershot.tech) - MVPs & AI tools for indie makers
 
 
@@ -13,7 +13,7 @@ Building in public from West Bengal, India
 - [Makershot](https://makershot.tech) - one-person studio, MVPs in 7 days
 - [OG Image Generator](https://makershot.tech/og) - free viral OG images
 - [easygodocs](https://github.com/EasyGoDocs/easygodocs) - open-source docs platform
-- Bulding [AtroUI](https:/www.atroui.com) - Not a typical component library
+- Bulding [AtroUI](https://www.atroui.com) - Not a typical component library
 
 
 **Stack**  
