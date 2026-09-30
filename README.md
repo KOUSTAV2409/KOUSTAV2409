@@ -20,4 +20,4 @@ Building in public from West Bengal, India
 Next.js · TypeScript · React · Tailwind · Postgres · Vercel · Python ·
 
 **Connect**  
-[iamk.xyz](https://iamk.xyz) · [X](https://x.com/iamk_xyz) · [LinkedIn](https://linkedin.com/in/iamkxyz) · [Makershot](https://makershot.tech) . [AtroUI](https://www.atroui.com)
+[iamk.xyz](https://koustav.co) · [X](https://x.com/iamk_xyz) · [LinkedIn](https://linkedin.com/in/iamkxyz) · [Makershot](https://makershot.tech) . [AtroUI](https://www.atroui.com)
